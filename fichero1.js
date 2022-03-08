@@ -1,0 +1,1 @@
+// fichero1 en rama1 va a sustituir a lo que haya en rama main
